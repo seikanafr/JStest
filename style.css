@@ -1,0 +1,13 @@
+ul {
+  border-radius: 50px;
+  background-color: chocolate;
+  padding: 5px;
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+ul:hover {
+  background-color: lightgreen;
+  transition: 0.5s;
+}
